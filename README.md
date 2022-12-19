@@ -4,6 +4,17 @@ Install:
 
 How to use:
 
+Create a `.env` file for:
+
+```
+PREFIX=/
+TOKEN=key
+CLIENT_ID=ID
+CLIENT_SECRET=Secret
+GUILD_ID=ID
+```
+
+
 If you want slash commands, see use the SlashCommands folder in which you will create a new folder for each category and inside it a `.js` file in which you will use the following template:
 
 ```
